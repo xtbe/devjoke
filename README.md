@@ -133,6 +133,12 @@ Guardians of the Galaxy
   
 ***
 
+#### Question: Do you know a good Kubernetes jokes?
+
+No, but I should be able to orchestrate one.
+  
+***
+
 ![async](./images/async.png)
 
 ***
